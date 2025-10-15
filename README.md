@@ -5,10 +5,12 @@ backend is hosted on render https://tictactoe-multiplayer-ti4j.onrender.com/
 api docs https://tictactoe-multiplayer-ti4j.onrender.com/docs
 source code is here https://github.com/keshavdhamija/tictactoe-multiplayer
 
-## Features
-- Copen 2 tabs, hit 'create game' on one tab. game_id will be generated, copy it, paste it in the same tab as well as in the other tab and hit 'join game' on both tabs. switch between tabs to make moves. works like a normal tic-tac-toe game.
-- there is one streamlit but that won't go away. it stays at the bottom of the browser screen. doesn't affect the flow of the game.
-- need to double click on a button to enter 'x' or 'o' in the game (another annoying streamlit problem)
+## Features/ "Not Bugs"
+- open 2 tabs of this url https://tictactoe-multiplayer-keshav.streamlit.app/ 
+hit 'create game' on one tab. game_id will be generated. copy it, paste it in the same tab as well as in the other tab and hit 'join game' on both tabs. switch between tabs to make moves. works like a normal tic-tac-toe game.
+
+- an error comes up. it looks like failure (it's not.) ignore it. it stays at the bottom of the browser screen. doesn't affect the flow of the game.
+- every button needs to be double clicked. every button.(another annoying streamlit problem)
 
 The backend holds:
 - `/create_game` — start a new game  
