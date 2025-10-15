@@ -1,6 +1,9 @@
 # Multiplayer Tic-Tac-Toe game made for LILA Backend Assignment.
 
-<!-- i used chatgpt -->
+open the game from this url https://tictactoe-multiplayer-keshav.streamlit.app/
+backend is hosted on render https://tictactoe-multiplayer-ti4j.onrender.com/
+api docs https://tictactoe-multiplayer-ti4j.onrender.com/docs
+source code is here https://github.com/keshavdhamija/tictactoe-multiplayer
 
 ## Features
 - Copen 2 tabs, hit 'create game' on one tab. game_id will be generated, copy it, paste it in the same tab as well as in the other tab and hit 'join game' on both tabs. switch between tabs to make moves. works like a normal tic-tac-toe game.
